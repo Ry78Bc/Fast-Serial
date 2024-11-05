@@ -6,6 +6,7 @@ com 4 hello - transmits hello to com4<br>
 
 Installation:<br>
 just move the program to the directory from which you will call it<br>
-for example:<br>
+
+Example:<br>
 if you open cmd using Run (Win+R), the path to the program should be:<br>
 "C:\Users\Name\com.exe"<br>
