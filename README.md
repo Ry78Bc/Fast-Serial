@@ -10,3 +10,6 @@ just move the program to the directory from which you will call it<br>
 Example:<br>
 if you open cmd using Run (Win+R), the path to the program should be:<br>
 "C:\Users\Name\com.exe"<br>
+
+Build:<br>
+g++ com.cpp -o com.exe<br>
