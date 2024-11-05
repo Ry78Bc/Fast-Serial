@@ -1,11 +1,11 @@
-This simple program is designed to quickly transfer something to a com device from the command line
+This simple program is designed to quickly transfer something to a com device from the command line<br>
 
-Usage:
-com hello - transmits hello to any available port 
-com 4 hello - transmits hello to com4
+Usage:<br>
+com hello - transmits hello to any available port <br>
+com 4 hello - transmits hello to com4<br>
 
-Installation:
-just move the program to the directory from which you will call it
-for example: 
-if you open cmd using Run (Win+R), the path to the program should be:
-"C:\Users\Name\com.exe"
+Installation:<br>
+just move the program to the directory from which you will call it<br>
+for example:<br>
+if you open cmd using Run (Win+R), the path to the program should be:<br>
+"C:\Users\Name\com.exe"<br>
