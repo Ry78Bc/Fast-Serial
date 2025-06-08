@@ -8,4 +8,4 @@ Installation:<br>
 not required, just a cli program<br>
 
 Build:<br>
-g++ com.cpp -o com.exe<br>
+g++ com.cpp -o com && ./com<br>
