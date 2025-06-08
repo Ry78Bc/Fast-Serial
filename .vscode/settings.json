@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "future": "cpp",
-        "system_error": "cpp",
-        "*.inc": "cpp",
-        "iostream": "cpp"
-    }
-}
